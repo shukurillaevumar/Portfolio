@@ -1,0 +1,15 @@
+section {
+    padding: 50px 0px 50px 0px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 40px;
+}
+
+.carousel-control-prev {
+    left: -110px;
+}
+
+.carousel-control-next {
+    right: -110px;
+}
